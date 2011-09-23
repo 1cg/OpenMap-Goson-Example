@@ -1,4 +1,5 @@
-= Using JSON in Goson
+Using JSON in Goson
+-------------------
 
 This is a simple project that uses the JSON results returned from 
 http://open.mapquestapi.com/nominatim/v1/search.php to create a 
